@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Poker.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.94749294"
+     inkscape:cx="533.53609"
+     inkscape:cy="211.89765"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.584743"
+       y="46.049747"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="19.584743"
+         y="46.049747"
+         style="stroke-width:0.26458332">Poker Game</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821"
+       width="87.301476"
+       height="41.174965"
+       x="-99.113014"
+       y="125.01994" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-95.129677"
+       y="132.82066"
+       id="text829"><tspan
+         sodipodi:role="line"
+         id="tspan827"
+         x="-95.129677"
+         y="132.82066"
+         style="font-size:6.3499999px;stroke-width:0.26458332">handScore</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m -98.781068,136.47207 h 85.641757"
+       id="path831"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-94.631599"
+       y="144.14737"
+       id="text829-3"><tspan
+         sodipodi:role="line"
+         x="-94.631599"
+         y="144.14737"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1354">Input: Array[5] face</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-94.43438"
+       y="160.98479"
+       id="text829-9"><tspan
+         sodipodi:role="line"
+         id="tspan827-5"
+         x="-94.43438"
+         y="160.98479"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Output: int score</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="131.77928"
+       y="78.786903"
+       id="text829-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-9"
+         x="131.77928"
+         y="87.798698"
+         style="font-size:6.3499999px;stroke-width:0.26458332" /></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-9-6"
+       width="79.334808"
+       height="33.194477"
+       x="19.479179"
+       y="178.5341" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.462524"
+       y="186.33482"
+       id="text829-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-5"
+         x="23.462524"
+         y="186.33482"
+         style="font-size:6.3499999px;stroke-width:0.26458332">card</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 19.811121,189.98622 h 79.00286"
+       id="path831-8-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.628662"
+       y="199.63937"
+       id="text829-9-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan827-5-7-3"
+         x="23.628662"
+         y="199.63937"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Value: int (1 - 13)</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-9-6-1"
+       width="85.437538"
+       height="46.808243"
+       x="106.83544"
+       y="-61.883965" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.81879"
+       y="-54.083248"
+       id="text829-4-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-5-8"
+         x="110.81879"
+         y="-54.083248"
+         style="font-size:6.3499999px;stroke-width:0.26458332">communityCards</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 107.16738,-50.43187 h 84.63615"
+       id="path831-8-7-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.98492"
+       y="-40.778698"
+       id="text829-9-9-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan827-5-7-3-3"
+         x="110.98492"
+         y="-40.778698"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Array cCards: card[5]</tspan><tspan
+         sodipodi:role="line"
+         x="110.98492"
+         y="-28.431479"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1309" /></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-9-6-1-5"
+       width="79.334808"
+       height="33.194477"
+       x="20.418064"
+       y="230.64203" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.401409"
+       y="238.44275"
+       id="text829-4-0-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-5-8-9"
+         x="24.401409"
+         y="238.44275"
+         style="font-size:6.3499999px;stroke-width:0.26458332">originalDeck</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 20.75,242.09414 H 99.752865"
+       id="path831-8-7-7-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.567539"
+       y="251.7473"
+       id="text829-9-9-9-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan827-5-7-3-3-7"
+         x="24.567539"
+         y="251.7473"
+         style="font-size:6.3499999px;stroke-width:0.26458332">originalDeck: Object</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-9-6-1-5-7-8"
+       width="89.834625"
+       height="33.194489"
+       x="104.83138"
+       y="79.143288" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="108.81472"
+       y="86.943977"
+       id="text829-4-0-2-4-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-5-8-9-5-6"
+         x="108.81472"
+         y="86.943977"
+         style="font-size:6.3499999px;stroke-width:0.26458332">deck</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 105.16331,90.595378 h 89.14062"
+       id="path831-8-7-7-0-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="108.98085"
+       y="100.24854"
+       id="text829-9-9-9-2-6-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan827-5-7-3-3-7-2-7"
+         x="108.98085"
+         y="100.24854"
+         style="font-size:6.3499999px;stroke-width:0.26458332">deck: Object originalDeck</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-5-8"
+       width="79.334808"
+       height="33.194477"
+       x="-98.542999"
+       y="179.55736" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-94.559662"
+       y="187.35805"
+       id="text829-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan827-6-6"
+         x="-94.559662"
+         y="187.35805"
+         style="font-size:6.3499999px;stroke-width:0.26458332">draw</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m -98.211056,191.00947 h 79.00286"
+       id="path831-1-3"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-94.061569"
+       y="198.68477"
+       id="text829-3-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-3"
+         x="-94.061569"
+         y="198.68477"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Input: object deck</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-94.393509"
+       y="208.64311"
+       id="text829-9-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan827-5-8-0"
+         x="-94.393509"
+         y="208.64311"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Output: Array card</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.273134"
+       y="207.62346"
+       id="text829-9-9-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan827-5-7-3-0"
+         x="24.273134"
+         y="207.62346"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Suit: int (1 - 4)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="243.63026"
+       y="138.45187"
+       id="text829-4-0-2-41"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-5-8-1"
+         x="243.63026"
+         y="147.46367"
+         style="font-size:6.3499999px;stroke-width:0.26458332" /></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-5-81"
+       width="92.948578"
+       height="75.444153"
+       x="224.15538"
+       y="126.42618" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="228.13872"
+       y="134.22687"
+       id="text829-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan827-6-9"
+         x="228.13872"
+         y="134.22687"
+         style="font-size:6.3499999px;stroke-width:0.26458332">newGame</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 224.48732,137.87829 92.1472,0"
+       id="path831-1-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="228.63681"
+       y="145.55359"
+       id="text829-3-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9"
+         x="228.63681"
+         y="145.55359"
+         style="font-size:6.3499999px;stroke-width:0.26458332">deck = originalDeck</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-5-81-3"
+       width="92.948593"
+       height="112.04259"
+       x="223.4937"
+       y="0.12612626" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="227.47704"
+       y="7.926816"
+       id="text829-5-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan827-6-9-4"
+         x="227.47704"
+         y="7.926816"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Player</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 223.82565,11.578221 h 92.1472"
+       id="path831-1-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="227.97513"
+       y="19.253536"
+       id="text829-3-8-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8"
+         x="227.97513"
+         y="19.253536"
+         style="font-size:6.3499999px;stroke-width:0.26458332">name: string</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.72563"
+       y="-30.368879"
+       id="text829-9-9-9-2-1"><tspan
+         sodipodi:role="line"
+         x="110.72563"
+         y="-30.368879"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1309-0">Push(draw(cCards)) x 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-94.252357"
+       y="152.50275"
+       id="text829-3-4"><tspan
+         sodipodi:role="line"
+         x="-94.252357"
+         y="152.50275"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1354-0">Input: Array[5] suit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="227.56049"
+       y="28.352337"
+       id="text829-3-8-0-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8-3"
+         x="227.56049"
+         y="28.352337"
+         style="font-size:6.3499999px;stroke-width:0.26458332">hand: array card[2]</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-9-6-1-5-7-8-2"
+       width="79.334808"
+       height="64.671822"
+       x="232.56161"
+       y="-83.451225" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="236.54494"
+       y="-75.650536"
+       id="text829-4-0-2-4-1-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-5-8-9-5-6-6"
+         x="236.54494"
+         y="-75.650536"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Players</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 232.89353,-71.999134 H 311.8964"
+       id="path831-8-7-7-0-2-6-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="236.71107"
+       y="-62.345966"
+       id="text829-9-9-9-2-6-4-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan827-5-7-3-3-7-2-7-5"
+         x="236.71107"
+         y="-62.345966"
+         style="font-size:6.3499999px;stroke-width:0.26458332">arr: Array</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-5-81-5"
+       width="116.50214"
+       height="64.179398"
+       x="336.52701"
+       y="214.21895" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="340.51035"
+       y="222.01964"
+       id="text829-5-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan827-6-9-2"
+         x="340.51035"
+         y="222.01964"
+         style="font-size:6.3499999px;stroke-width:0.26458332">addPlayer</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 336.85895,225.67106 115.70076,0"
+       id="path831-1-9-04"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="340.75241"
+       y="268.18179"
+       id="text829-3-8-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-2"
+         x="340.75241"
+         y="268.18179"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Process: players.push(new Player)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="341.94067"
+       y="235.8105"
+       id="text829-3-8-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-3-5"
+         x="341.94067"
+         y="235.8105"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Input: string name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="342.17166"
+       y="243.93188"
+       id="text829-3-8-4-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-3-5-9"
+         x="342.17166"
+         y="243.93188"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Input: Array players</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="342.13156"
+       y="252.22984"
+       id="text829-3-8-4-7-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-3-5-9-5"
+         x="342.13156"
+         y="252.22984"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Input: Array cards</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="341.85843"
+       y="260.18356"
+       id="text829-3-8-4-7-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-3-5-9-7"
+         x="341.85843"
+         y="260.18356"
+         style="font-size:6.3499999px;stroke-width:0.26458332">Input: int money</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="228.38541"
+       y="36.905895"
+       id="text829-3-8-0-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8-9"
+         x="228.38541"
+         y="36.905895"
+         style="font-size:6.3499999px;stroke-width:0.26458332">money: int</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="228.20444"
+       y="45.087887"
+       id="text829-3-8-0-2-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8-9-4"
+         x="228.20444"
+         y="45.087887"
+         style="font-size:6.3499999px;stroke-width:0.26458332">score: int</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="228.51355"
+       y="53.302853"
+       id="text829-3-8-0-2-7-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8-9-4-9"
+         x="228.51355"
+         y="53.302853"
+         style="font-size:6.3499999px;stroke-width:0.26458332">active: bool</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-5-81-4"
+       width="92.948586"
+       height="75.444153"
+       x="335.75064"
+       y="126.62338" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="339.73398"
+       y="134.42407"
+       id="text829-5-7-99"><tspan
+         sodipodi:role="line"
+         id="tspan827-6-9-5"
+         x="339.73398"
+         y="134.42407"
+         style="font-size:6.3499999px;stroke-width:0.26458332">newRound</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 336.08258,138.0755 h 92.1472"
+       id="path831-1-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="340.23206"
+       y="145.75079"
+       id="text829-3-8-0-09"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-1"
+         x="340.23206"
+         y="145.75079"
+         style="font-size:6.3499999px;stroke-width:0.26458332">deck = originalDeck</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="228.7412"
+       y="62.051937"
+       id="text829-3-8-0-2-7-5-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8-9-4-9-3"
+         x="228.7412"
+         y="62.051937"
+         style="font-size:6.3499999px;stroke-width:0.26458332">fold: function</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="228.6385"
+       y="70.016663"
+       id="text829-3-8-0-2-7-5-6-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8-9-4-9-3-3"
+         x="228.6385"
+         y="70.016663"
+         style="font-size:6.3499999px;stroke-width:0.26458332">call: function</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="228.84607"
+       y="77.314453"
+       id="text829-3-8-0-2-7-5-6-8-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8-9-4-9-3-3-4"
+         x="228.84607"
+         y="77.314453"
+         style="font-size:6.3499999px;stroke-width:0.26458332">raise: function</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="227.93811"
+       y="85.05294"
+       id="text829-3-8-0-2-7-5-6-8-5-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8-9-4-9-3-3-4-2"
+         x="227.93811"
+         y="85.05294"
+         style="font-size:6.3499999px;stroke-width:0.26458332">check: function</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-3"
+       width="87.301483"
+       height="26.23041"
+       x="347.23788"
+       y="-33.607479" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="351.22122"
+       y="-25.806757"
+       id="text829-2"><tspan
+         sodipodi:role="line"
+         id="tspan827-1"
+         x="351.22122"
+         y="-25.806757"
+         style="font-size:6.3499999px;stroke-width:0.26458332">fold</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 347.56982,-22.155351 h 85.64176"
+       id="path831-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="351.7193"
+       y="-14.48005"
+       id="text829-3-2"><tspan
+         sodipodi:role="line"
+         x="351.7193"
+         y="-14.48005"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1354-8">process: active = false</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.81360596;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-3-2"
+       width="87.001923"
+       height="40.239449"
+       x="347.12424"
+       y="28.22365" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="351.11676"
+       y="35.504398"
+       id="text829-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-1"
+         x="351.11676"
+         y="35.504398"
+         style="font-size:6.3499999px;stroke-width:0.26458332">raise</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 347.46537,39.155807 h 85.64176"
+       id="path831-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="350.55649"
+       y="55.826946"
+       id="text829-3-2-7"><tspan
+         sodipodi:role="line"
+         x="350.55649"
+         y="55.826946"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1354-8-2">process: pot += value</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="350.53302"
+       y="64.30703"
+       id="text829-3-2-7-5"><tspan
+         sodipodi:role="line"
+         x="350.53302"
+         y="64.30703"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1354-8-2-3">process: money -= value</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-3-8"
+       width="87.301483"
+       height="26.23041"
+       x="347.13339"
+       y="71.901405" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="351.11673"
+       y="79.702126"
+       id="text829-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-0"
+         x="351.11673"
+         y="79.702126"
+         style="font-size:6.3499999px;stroke-width:0.26458332">check</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 347.46538,83.35353 h 85.64176"
+       id="path831-9-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="351.61481"
+       y="91.028824"
+       id="text829-3-2-1"><tspan
+         sodipodi:role="line"
+         x="351.61481"
+         y="91.028824"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1354-8-3">process: none</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.81360602;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-3-2-9"
+       width="87.001907"
+       height="29.746464"
+       x="346.96527"
+       y="-4.6838198" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="350.95779"
+       y="2.5969291"
+       id="text829-2-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-1-3"
+         x="350.95779"
+         y="2.5969291"
+         style="font-size:6.3499999px;stroke-width:0.26458332">call</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 347.30639,6.2483385 h 85.64176"
+       id="path831-9-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="351.45587"
+       y="13.923635"
+       id="text829-3-2-7-9"><tspan
+         sodipodi:role="line"
+         x="351.45587"
+         y="13.923635"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1354-8-2-9">process: pot += value</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="350.90323"
+       y="22.403719"
+       id="text829-3-2-7-5-7"><tspan
+         sodipodi:role="line"
+         x="350.90323"
+         y="22.403719"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1354-8-2-3-7">process: money -= value</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect821-9-6-7"
+       width="90.463737"
+       height="60.8578"
+       x="105.83303"
+       y="1.4716903" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="109.81638"
+       y="9.2724104"
+       id="text829-4-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-5-5"
+         x="109.81638"
+         y="9.2724104"
+         style="font-size:6.3499999px;stroke-width:0.26458332">table</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 106.16499,12.923813 89.17788,0"
+       id="path831-8-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="109.98251"
+       y="22.57696"
+       id="text829-9-9-9-29"><tspan
+         sodipodi:role="line"
+         id="tspan827-5-7-3-1"
+         x="109.98251"
+         y="22.57696"
+         style="font-size:6.3499999px;stroke-width:0.26458332">community cards: Array</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="109.56868"
+       y="30.561037"
+       id="text829-9-9-9-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan827-5-7-3-0-7"
+         x="109.56868"
+         y="30.561037"
+         style="font-size:6.3499999px;stroke-width:0.26458332">pot: int</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="350.63748"
+       y="46.941906"
+       id="text829-3-2-7-3"><tspan
+         sodipodi:role="line"
+         x="350.63748"
+         y="46.941906"
+         style="font-size:6.3499999px;stroke-width:0.26458332"
+         id="tspan1354-8-2-8">input: value</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="228.4969"
+       y="93.01767"
+       id="text829-3-8-0-2-7-5-6-8-5-7-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8-9-4-9-3-3-4-2-6"
+         x="228.4969"
+         y="93.01767"
+         style="font-size:6.3499999px;stroke-width:0.26458332">emptyHand: function</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="228.65691"
+       y="101.64812"
+       id="text829-3-8-0-2-7-5-6-8-5-7-8-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan827-2-4-9-8-9-4-9-3-3-4-2-6-9"
+         x="228.65691"
+         y="101.64812"
+         style="font-size:6.3499999px;stroke-width:0.26458332">fillHand: function</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="108.9147"
+       y="39.226406"
+       id="text829-4-0-2-4-1-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan827-1-5-8-9-5-6-5"
+         x="108.9147"
+         y="39.226406"
+         style="font-size:6.3499999px;stroke-width:0.26458332">deck: object</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="236.41982"
+       y="-52.527596"
+       id="text829-9-9-9-2-6-4-1-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan827-5-7-3-3-7-2-7-5-6"
+         x="236.41982"
+         y="-52.527596"
+         style="font-size:6.3499999px;stroke-width:0.26458332">activateAll: function</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect965"
+       width="71.115234"
+       height="23.117868"
+       x="26.807589"
+       y="334.41891" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.499851"
+       y="349.46631"
+       id="text969"><tspan
+         sodipodi:role="line"
+         id="tspan967"
+         x="33.499851"
+         y="349.46631"
+         style="stroke-width:0.26458332">Start Round</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect965-4"
+       width="78.421127"
+       height="21.538206"
+       x="22.524242"
+       y="394.06" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="33.332539"
+       y="406.75397"
+       id="text969-1"><tspan
+         sodipodi:role="line"
+         id="tspan967-1"
+         x="33.332539"
+         y="406.75397"
+         style="stroke-width:0.13229166">Big + Small bet = pot</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect965-4-5"
+       width="78.421127"
+       height="21.538206"
+       x="190.60864"
+       y="394.57825" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="197.30092"
+       y="409.62564"
+       id="text969-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan967-1-4"
+         x="197.30092"
+         y="409.62564"
+         style="stroke-width:0.26458332">Small Action</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect965-4-2"
+       width="78.421127"
+       height="21.538206"
+       x="22.223492"
+       y="364.97818" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="29.401592"
+       y="377.95139"
+       id="text969-1-16"><tspan
+         sodipodi:role="line"
+         id="tspan967-1-6"
+         x="29.401592"
+         y="377.95139"
+         style="stroke-width:0.13229166">Every Player gets 2 cards</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="113.17531"
+       y="408.10992"
+       id="text969-1-16-1"><tspan
+         sodipodi:role="line"
+         id="tspan967-1-6-8"
+         x="113.17531"
+         y="412.61581"
+         style="stroke-width:0.13229166" /></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect965-4-5-8"
+       width="78.421127"
+       height="21.538206"
+       x="107.11418"
+       y="334.54044" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="126.65176"
+       y="349.58783"
+       id="text969-1-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan967-1-4-2"
+         x="126.65176"
+         y="349.58783"
+         style="stroke-width:0.26458332">The Flop</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect965-4-7"
+       width="78.421127"
+       height="21.538206"
+       x="23.61972"
+       y="420.5481" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="45.3186"
+       y="432.96283"
+       id="text969-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan967-1-0"
+         x="45.3186"
+         y="432.96283"
+         style="stroke-width:0.13229166">Initial Betting</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect965-4-7-0"
+       width="78.421127"
+       height="21.538206"
+       x="108.51041"
+       y="365.25745" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="137.74892"
+       y="378.23068"
+       id="text969-1-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan967-1-0-4"
+         x="137.74892"
+         y="378.23068"
+         style="stroke-width:0.13229166">Betting</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3dedb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.67346931;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect965-4-7-0-7"
+       width="125.05516"
+       height="21.538208"
+       x="26.132931"
+       y="463.83118" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="31.077065"
+       y="476.52518"
+       id="text969-1-7-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan967-1-0-4-0"
+         x="31.077065"
+         y="476.52518"
+         style="stroke-width:0.13229166">While Current player is not equal to undefined</tspan></text>
+  </g>
+</svg>
